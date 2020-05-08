@@ -1,0 +1,10 @@
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\bin\Debug\RunningBut_lab7.exe.config
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\bin\Debug\RunningBut_lab7.exe
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\bin\Debug\RunningBut_lab7.pdb
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.csprojAssemblyReference.cache
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.Form1.resources
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.Properties.Resources.resources
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.csproj.GenerateResource.cache
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.exe
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.pdb
+C:\Users\Екатерина Захаренко\source\repos\RunningBut_lab7\RunningBut_lab7\obj\Debug\RunningBut_lab7.AddButton.resources
